@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPMOD3Gui", "TPMOD3Gui\TPMOD3Gui.csproj", "{A750A80C-851C-4016-9F3E-DF00F64491CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A750A80C-851C-4016-9F3E-DF00F64491CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A750A80C-851C-4016-9F3E-DF00F64491CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A750A80C-851C-4016-9F3E-DF00F64491CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A750A80C-851C-4016-9F3E-DF00F64491CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBD10D17-C802-4785-A6FA-6899026800C7}
+	EndGlobalSection
+EndGlobal
