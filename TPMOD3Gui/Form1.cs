@@ -16,5 +16,10 @@ namespace TPMOD3Gui
         {
             InitializeComponent();
         }
+        //udah itu
+        private void button1_MouseClick(object sender, MouseEventArgs e)
+        {
+            this.label1.Text = "hallo " + this.textBox1.Text;
+        }
     }
 }
